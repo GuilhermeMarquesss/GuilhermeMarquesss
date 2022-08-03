@@ -1,4 +1,6 @@
-### Bem vindo / Welcome ! Meu nome é Guilherme / My name is Guilherme 👋
+### Bem vindo! Meu nome é Guilherme 👋
+
+### Welcome ! My name is Guilherme 👋
 
 
 - 🔭 Cientista de Dados / Data Scientist
