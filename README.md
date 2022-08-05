@@ -3,7 +3,7 @@
 
 - 🔭 Cientista de Dados / Data Scientist
  
-
+<div align="center>
 <div align="center">
   <a href="https://github.com/GuilhermeMarquesss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMarquesss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,3 +27,4 @@
   
 ![matrix](https://www.imagensanimadas.com/data/media/568/matrix-imagem-animada-0013.gif)
 
+</div>
