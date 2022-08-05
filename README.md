@@ -1,5 +1,3 @@
-### Bem vindo! Meu nome é Guilherme 👋
-
 ### Welcome ! My name is Guilherme 👋
 
 
