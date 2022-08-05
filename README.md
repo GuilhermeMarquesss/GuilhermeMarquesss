@@ -24,5 +24,6 @@
   <a href="https://www.linkedin.com/in/guilherme-marques-48174421b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-![matrix](https://www.imagensanimadas.com/data/media/568/matrix-imagem-animada-0013.gif
+  
+![matrix](https://www.imagensanimadas.com/data/media/568/matrix-imagem-animada-0013.gif)
 
