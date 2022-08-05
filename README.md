@@ -26,6 +26,6 @@
   
  <BR>
   <div align="center">
-  ![matrix](https://www.imagensanimadas.com/data/media/568/matrix-imagem-animada-0013.gif)
+  <a href="https://www.imagensanimadas.com/data/media/568/matrix-imagem-animada-0013.gif">
  </div>
 
