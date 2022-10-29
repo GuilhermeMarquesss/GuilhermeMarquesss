@@ -49,8 +49,6 @@ Development of a **Dashboard in Power BI** to visualize the evolution of 4 KPI's
 
 [Read More] ()
 
-<!--
-
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving bussiness challenges through my knowledge and tools of Data Science.
  
 <div align="center">
@@ -67,14 +65,7 @@ The main objective of this data science personal project portfolio is to demonst
   <img align="center" alt="GUI-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div> 
  <BR>
- 
-<div> 
-  
- <a href="https://guilhermemarquesss.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/guilherme-marques-48174421b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
-  </div>
 <br>  
   
   
