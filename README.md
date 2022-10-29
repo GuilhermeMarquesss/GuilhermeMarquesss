@@ -47,7 +47,7 @@ In order to maximize the company's return on investment, this **Data Analysis** 
 ### Sales Dashboard
 Development of a **Dashboard in Power BI** to visualize the evolution of 4 KPI's: Revenue, Sales Quantity, Average Ticket and Positivation. The results are detailed in the project by time period, by product and by collaborator. 
 
-[Read More](https://app.powerbi.com/view?r=eyJrIjoiN2VjZDUyY2YtNDcxYy00MTljLWI1ZjAtZTJlOWQ4ZGFmNDNmIiwidCI6IjgyOWZmMzMyLTMxYmEtNDg0ZC1iNDQ4LWU1NDYxMzE3ZWZjYSJ9&pageName=ReportSectiona5a2606ecaf70f7e89c8)
+[Read More] ()
 
 <!--
 
