@@ -1,7 +1,57 @@
-### Welcome ! My name is Guilherme 👋
+## Hi there 👋
 
+Hi, my name is Guilherme Marques
 
-- 🔭 Cientista de Dados / Data Scientist
+On this Github I present projects developed from public data, with resolutions of business problems using Data Science concepts and tools. 
+
+## About me 🚀
+
+I have 10 years of professional experience in administrative area. I am an enthusiast for Data Science and believe data analysis will influence more and more the decision-making of companies and leaders, regardless of their area of expertise.
+
+My professional goal is to make a career change to the Data Science area. Combining this career transition with my experience, I intend to develop creative and sustainable solutions through the use of data, which allows for assertive decision-making and positively reflects on the company's results.
+
+ <a href="https://www.linkedin.com/in/guilherme-marques-48174421b/">
+         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="https://wa.me/5535984094692" target="_blank">
+         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+
+## Data Science Projects 📈
+
+### Cross-Sell Campaign
+To increase the sales team's performance during a Cross Sell campaign, a **Classification** Machine Learning model was developed to generate a purchase propensity score and classify a base of 127 thousand customers. The trained model generated an extra revenue of $25,000,000.00. 
+
+[Read More]()
+
+### Sales Prediction
+Development of a Machine Learning algorithm to predict sales 6 weeks in advance in a pharmacy chain in Europe. The trained **Regression** algorithm has 88% MAPE and was made available for queries through a Telegram bot. 
+
+[Read More]()
+
+## Data Analytics Projects 📊
+
+### Market Research With Web Scraping (Under Development)
+A company wants to enter the American men's clothing market and for that, it needs market research of the main competitors in the segment. The project will be developed through web scraping with python.
+
+[Read More]()
+
+### Google Data Analytics Capstone
+In this final project of the certification in Data Analytics from Google, the analysis of data from the Cyclistic company was carried out in order to generate insights to increase the conversion rate from casual customers to annual subscribers. 
+
+[Read More]()
+
+### Real State Opportunities
+In order to maximize the company's return on investment, this **Data Analysis** project was developed using Python to identify opportunities for homes below the average market price and define when and at what price to resell these properties. 
+
+[Read More]()
+
+### Sales Dashboard
+Development of a **Dashboard in Power BI** to visualize the evolution of 4 KPI's: Revenue, Sales Quantity, Average Ticket and Positivation. The results are detailed in the project by time period, by product and by collaborator. 
+
+[Read More](https://app.powerbi.com/view?r=eyJrIjoiN2VjZDUyY2YtNDcxYy00MTljLWI1ZjAtZTJlOWQ4ZGFmNDNmIiwidCI6IjgyOWZmMzMyLTMxYmEtNDg0ZC1iNDQ4LWU1NDYxMzE3ZWZjYSJ9&pageName=ReportSectiona5a2606ecaf70f7e89c8)
+
+<!--
+
+The main objective of this data science personal project portfolio is to demonstrate my skills in solving bussiness challenges through my knowledge and tools of Data Science.
  
 <div align="center">
 <div align="center">
@@ -21,7 +71,6 @@
 <div> 
   
  <a href="https://guilhermemarquesss.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
- <a href="https://wa.me/5535984094692" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/guilherme-marques-48174421b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
