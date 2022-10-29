@@ -47,15 +47,10 @@ In order to maximize the company's return on investment, this **Data Analysis** 
 ### Sales Dashboard
 Development of a **Dashboard in Power BI** to visualize the evolution of 4 KPI's: Revenue, Sales Quantity, Average Ticket and Positivation. The results are detailed in the project by time period, by product and by collaborator. 
 
-[Read More] ()
+[Read More]()
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving bussiness challenges through my knowledge and tools of Data Science.
  
-<div align="center">
-<div align="center">
-  <a href="https://github.com/GuilhermeMarquesss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMarquesss&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="GUI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GUI-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
