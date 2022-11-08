@@ -35,7 +35,7 @@ We receive a list of users along with their demographics, web session logs and s
 [Read More](https://github.com/GuilhermeMarquesss/Airbnb_new_users)
 
 
-The main objective of this data science personal project portfolio is to demonstrate my skills in solving bussiness challenges through my knowledge and tools of Data Science.
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="GUI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
