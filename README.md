@@ -22,22 +22,22 @@ Meu objetivo profissional é fazer uma mudança de carreira para a Área de Aná
 ### Cross-Sell Campaign
 Nosso cliente é uma seguradora que forneceu seguro saúde para seus clientes agora eles precisam de sua ajuda para construir um modelo para prever se os segurados (clientes) do ano passado também estarão interessados no seguro de veículos fornecido pela empresa.
 
-[Read More](https://github.com/GuilhermeMarquesss/Health_Insurance_Cross_Sell)
+[Leia mais](https://github.com/GuilhermeMarquesss/Health_Insurance_Cross_Sell)
 
 ### Sales Prediction
 As lojas da rede de drogarias Rossmann precisam ser reformadas e o CEO precisa decidir quanto dedicar para restaurar cada uma. O diretor financeiro (CFO) solicitou modelos de previsão para a equipe de análise para apoiar sua decisão sobre quanto orçamento em cada loja precisa ser alocado.
 
-[Read More](https://github.com/GuilhermeMarquesss/DataScience_Em_Producao)
+[Leia mais](https://github.com/GuilhermeMarquesss/DataScience_Em_Producao)
 
 ### Airbnb Destination
 Novos usuários no Airbnb podem reservar um lugar para ficar em mais de 34.000 cidades em mais de 190 países. Ao prever com precisão onde um novo usuário reservará sua primeira experiência de viagem, o Airbnb pode compartilhar conteúdo mais personalizado com sua comunidade, diminuir o tempo médio para a primeira reserva e prever melhor a demanda.
 
-[Read More](https://github.com/GuilhermeMarquesss/Airbnb_new_users)
+[Leia mais](https://github.com/GuilhermeMarquesss/Airbnb_new_users)
 
 ### Blocker Fraud
 Há uma falta de conjuntos de dados públicos disponíveis sobre serviços financeiros e especialmente no domínio emergente de transações de dinheiro móvel. Os conjuntos de dados financeiros são importantes para muitos pesquisadores e, em particular, para nós que realizamos pesquisas no domínio da detecção de fraudes. Parte do problema é a natureza intrinsecamente privada das transações financeiras, que não leva a conjuntos de dados publicamente disponíveis.
 
-[Read More](https://github.com/GuilhermeMarquesss/Block_Fraud)
+[Leia mais](https://github.com/GuilhermeMarquesss/Block_Fraud)
 
 
 
