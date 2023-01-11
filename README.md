@@ -1,43 +1,41 @@
-## Hi there 👋
+## Olá 👋
+Neste Github apresento projetos desenvolvidos a partir de dados públicos, 
+com resoluções de problemas de negócios utilizando conceitos e ferramentas de Data Science.
 
-Hi, my name is Guilherme Marques
+Você também pode ver meu portfólio aqui : https://guilhermemarquesss.github.io/Portfolio/
 
-On this Github I present projects developed from public data, with resolutions of business problems using Data Science concepts and tools. 
+## Sobre mim 🚀
 
-You can also see my portfolio here : https://guilhermemarquesss.github.io/Portfolio/
-
-## About me 🚀
-
-I have 10 years of professional experience in administrative area. 
-I live in search of innovation, positive impacts and a life that is productive!
+Tenho 10 anos de experiência profissional na área administrativa.
+Vivo em busca de inovação, impactos positivos e uma vida produtiva!
 
 
-My professional goal is to make a career change to the Data Analysis Area. Combining this career transition with my experience, I intend to develop creative and sustainable solutions through the use of data, which allows for assertive decision-making and positively reflects on the company's results.
+Meu objetivo profissional é fazer uma mudança de carreira para a Área de Análise de Dados. Aliando essa transição de carreira à minha experiência, pretendo desenvolver soluções criativas e sustentáveis por meio do uso de dados, que permitam tomadas de decisão assertivas e reflitam positivamente nos resultados da empresa.
 
  <a href="https://www.linkedin.com/in/guilherme-marques-48174421b/">
          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://wa.me/5535984094692" target="_blank">
          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
-## Data Science Projects 📈
+## Projetos de Dados 📈
 
 ### Cross-Sell Campaign
-Our client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company. 
+Nosso cliente é uma seguradora que forneceu seguro saúde para seus clientes agora eles precisam de sua ajuda para construir um modelo para prever se os segurados (clientes) do ano passado também estarão interessados no seguro de veículos fornecido pela empresa.
 
 [Read More](https://github.com/GuilhermeMarquesss/Health_Insurance_Cross_Sell)
 
 ### Sales Prediction
-The Rossmann drugstore chain stores need to be renovated and the CEO needs to decide how much to dedicate to restoring each one. The chief financial officer (CFO) required forecasting models for the analytics team to support their decision on how much budget at each store needs to be allocated.
+As lojas da rede de drogarias Rossmann precisam ser reformadas e o CEO precisa decidir quanto dedicar para restaurar cada uma. O diretor financeiro (CFO) solicitou modelos de previsão para a equipe de análise para apoiar sua decisão sobre quanto orçamento em cada loja precisa ser alocado.
 
 [Read More](https://github.com/GuilhermeMarquesss/DataScience_Em_Producao)
 
 ### Airbnb Destination
-New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
+Novos usuários no Airbnb podem reservar um lugar para ficar em mais de 34.000 cidades em mais de 190 países. Ao prever com precisão onde um novo usuário reservará sua primeira experiência de viagem, o Airbnb pode compartilhar conteúdo mais personalizado com sua comunidade, diminuir o tempo médio para a primeira reserva e prever melhor a demanda.
 
 [Read More](https://github.com/GuilhermeMarquesss/Airbnb_new_users)
 
 ### Blocker Fraud
-There is a lack of public available datasets on financial services and specially in the emerging mobile money transactions domain. Financial datasets are important to many researchers and in particular to us performing research in the domain of fraud detection. Part of the problem is the intrinsically private nature of financial transactions, that leads to no publicly available datasets.
+Há uma falta de conjuntos de dados públicos disponíveis sobre serviços financeiros e especialmente no domínio emergente de transações de dinheiro móvel. Os conjuntos de dados financeiros são importantes para muitos pesquisadores e, em particular, para nós que realizamos pesquisas no domínio da detecção de fraudes. Parte do problema é a natureza intrinsecamente privada das transações financeiras, que não leva a conjuntos de dados publicamente disponíveis.
 
 [Read More](https://github.com/GuilhermeMarquesss/Block_Fraud)
 
