@@ -19,6 +19,12 @@ Meu objetivo profissional é fazer uma mudança de carreira para a Área de Aná
 
 ## Projetos de Dados 📈
 
+### Credit Card Limit
+O Billion Bank é um banco digital brasileiro, fundado em 2021. Trabalha hoje com contas digitais, e cartões de crédito.
+Quando um cliente solicita aumento de limite no cartão de crédito, o banco consulta uma empresa de crédito terceira, que retorna uma recomendação: "negar" ou "conceder". Essa resposta é repassada ao cliente.
+
+[Leia mais]()
+
 ### Cross-Sell Campaign
 Nosso cliente é uma seguradora que forneceu seguro saúde para seus clientes agora eles precisam de sua ajuda para construir um modelo para prever se os segurados (clientes) do ano passado também estarão interessados no seguro de veículos fornecido pela empresa.
 
