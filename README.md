@@ -34,11 +34,6 @@ As lojas da rede de drogarias Rossmann precisam ser reformadas e o CEO precisa d
 
 [Leia mais](https://github.com/GuilhermeMarquesss/DataScience_Em_Producao)
 
-### Airbnb Destination
-Novos usuários no Airbnb podem reservar um lugar para ficar em mais de 34.000 cidades em mais de 190 países. Ao prever com precisão onde um novo usuário reservará sua primeira experiência de viagem, o Airbnb pode compartilhar conteúdo mais personalizado com sua comunidade, diminuir o tempo médio para a primeira reserva e prever melhor a demanda.
-
-[Leia mais](https://github.com/GuilhermeMarquesss/Airbnb_new_users)
-
 ### Blocker Fraud
 Há uma falta de conjuntos de dados públicos disponíveis sobre serviços financeiros e especialmente no domínio emergente de transações de dinheiro móvel. Os conjuntos de dados financeiros são importantes para muitos pesquisadores e, em particular, para nós que realizamos pesquisas no domínio da detecção de fraudes. Parte do problema é a natureza intrinsecamente privada das transações financeiras, que não leva a conjuntos de dados publicamente disponíveis.
 
