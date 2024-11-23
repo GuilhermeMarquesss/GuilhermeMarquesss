@@ -2,15 +2,12 @@
 Neste Github apresento projetos desenvolvidos a partir de dados públicos, 
 com resoluções de problemas de negócios utilizando conceitos e ferramentas de Data Science.
 
-Você também pode ver meu portfólio aqui : https://guilhermemarquesss.github.io/Portfolio/
 
 ## Sobre mim 🚀
 
-Tenho 10 anos de experiência profissional na área administrativa.
-Vivo em busca de inovação, impactos positivos e uma vida produtiva!
+Com 10 anos de experiência na área administrativa e 2 anos atuando como cientista de dados, dedico-me a transformar dados em decisões estratégicas. Meu trabalho combina criatividade e tecnologia, utilizando ferramentas de inteligência artificial para gerar impacto positivo nos negócios.
 
-
-Meu objetivo profissional é fazer uma mudança de carreira para a Área de Análise de Dados. Aliando essa transição de carreira à minha experiência, pretendo desenvolver soluções criativas e sustentáveis por meio do uso de dados, que permitam tomadas de decisão assertivas e reflitam positivamente nos resultados da empresa.
+Meu objetivo profissional é continuar a desenvolver soluções sustentáveis e inovadoras, que contribuam para a otimização de processos e melhorem os resultados das empresas, aliando minha experiência anterior à paixão por ciência de dados.
 
  <a href="https://www.linkedin.com/in/guilherme-marques-48174421b/">
          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
